@@ -1,7 +1,7 @@
 # DanZosh_Portfoliosh_Update
 The Repository For Danny Maier's Portolio
 
-This is the repository for Danny Maier's portfolio UPDATE. The portfolio consists of an HTML and associated asset file with CSS and images used in the HTML. The design is an update and slight modification to homework 2. The works shown consist of my relevent homeworks and projects to date. 
+This is the repository for Danny Maier's portfolio UPDATE. The portfolio consists of an HTML and associated asset file with CSS and images used in the HTML. The design is an update and slight modification to homework 2. The works shown consist of my relevant homeworks and projects to date. 
 
 
 
