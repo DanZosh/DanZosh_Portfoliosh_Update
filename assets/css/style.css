@@ -197,7 +197,7 @@ footer ul{
 }
 
 
-.horiseon {
+.homebrew {
   height: 300px;
   /* width: 100%; */
   margin-bottom: 25px;
@@ -210,7 +210,7 @@ footer ul{
   opacity: 0.7;
 }
 
-.dexter {
+.taskday {
   height: 150px;
   /* width: 47.5%; */
   /* margin-bottom: 25px; */
@@ -223,7 +223,7 @@ footer ul{
   opacity: 0.7;
 }
 
-.npr {
+.weatherDash {
   height: 150px;
   /* width: 50%; */
   background-image: url("../images/6_weatherDash.png");
@@ -234,7 +234,7 @@ footer ul{
   position:relative;
   opacity: 0.7;
 }
-.hayward {
+.passwordGenerator {
   height: 150px;
   /* width: 50%; */
   background-image: url("../images/3_passwordGenerator.png");
@@ -245,7 +245,7 @@ footer ul{
   position:relative;
   opacity: 0.7;
 }
-.massAve{
+.popQuiz{
   height: 150px;
   /* width: 50%; */
   /* margin-bottom: 25px; */
