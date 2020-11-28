@@ -201,7 +201,7 @@ footer ul{
   height: 300px;
   /* width: 100%; */
   margin-bottom: 25px;
-  background-image: url("../images/Horiseon.png");
+  background-image: url("../images/7_homeBrew.png");
   /* background-size:cover resizes the background image to cover the entire container, even if it has to stretch the image or cut a little bit off one of the edges */
   background-size: cover;
   background-position: center;
@@ -214,7 +214,7 @@ footer ul{
   height: 150px;
   /* width: 47.5%; */
   /* margin-bottom: 25px; */
-  background-image: url("../images/701Dex.jpg");
+  background-image: url("../images/5_taskday.png");
   /* background-size:cover resizes the background image to cover the entire container, even if it has to stretch the image or cut a little bit off one of the edges */
   background-size: cover;
   background-position: center;
@@ -226,7 +226,7 @@ footer ul{
 .npr {
   height: 150px;
   /* width: 50%; */
-  background-image: url("../images/NPRHQ.jpg");
+  background-image: url("../images/6_weatherDash.png");
   /* background-size:cover resizes the background image to cover the entire container, even if it has to stretch the image or cut a little bit off one of the edges */
   background-size: cover;
   background-position: center;
@@ -237,7 +237,7 @@ footer ul{
 .hayward {
   height: 150px;
   /* width: 50%; */
-  background-image: url("../images/Hayward.jpg");
+  background-image: url("../images/3_passwordGenerator.png");
   /* background-size:cover resizes the background image to cover the entire container, even if it has to stretch the image or cut a little bit off one of the edges */
   background-size: cover;
   background-position: center;
@@ -249,7 +249,7 @@ footer ul{
   height: 150px;
   /* width: 50%; */
   /* margin-bottom: 25px; */
-  background-image: url("../images/601Mass.jpg");
+  background-image: url("../images/4_popQuiz.png");
   /* background-size:cover resizes the background image to cover the entire container, even if it has to stretch the image or cut a little bit off one of the edges */
   background-size: cover;
   background-position: center;
